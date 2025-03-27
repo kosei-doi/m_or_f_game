@@ -1,4 +1,4 @@
-# m_or_f_game
+# Male or Female name game
 外国の男性の名前か女性の名前かを当てるゲーム<br>
 [詳細動画](https://www.instagram.com/p/CyKSSkiRMVe/)
 
